@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T16:19:18.796Z'
-dateModified: '2016-03-02T16:19:03.787Z'
+datePublished: '2016-03-02T16:38:30.604Z'
+dateModified: '2016-03-02T16:19:26.754Z'
 title: 'Bis das coming soon vorbei ist, unterhaltsam gemeinte Kopf Anschläge.'
 author: []
 authors: []
