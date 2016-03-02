@@ -1,6 +1,6 @@
 name: Köpfe schlagen Kapital
 favicon: null
-layout_spectrum: 0.73796
+layout_spectrum: 1
 typography_spectrum: 0.7408
 title: Medienökonomische Lösungen durch angewandte Forschung
 cta:
@@ -22,8 +22,8 @@ color:
     - '#249567'
     - '#167a63'
     - '#0b5558'
-  brandStrength: 0.6875
+  brandStrength: 0.625
   lightness: 0.6875
-  saturation: 0.875
+  saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
